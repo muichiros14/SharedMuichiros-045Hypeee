@@ -192469,7 +192469,7 @@
          "analyticsPrices" : [],
          "prices" : [
             {
-               "amount" : 259,
+               "amount" : 250,
                "currency" : "gems"
             }
          ],
@@ -192477,8 +192477,8 @@
             {
                "max" : 1,
                "min" : 1,
-               "type" : "FOOTSTEPS",
-               "typeInfo" : "Steps054_PolandFlag"
+               "type" : "SKIN",
+               "typeInfo" : "SKIN123"
             }
          ]
       },
@@ -220282,9 +220282,9 @@
          {
             "BackgroundColor" : "#00CC17",
             "Category" : "OFFERS",
-            "Description" : "GUARANTEED_COSMETIC_DESCRIPTION",
-            "EndDateTime" : "2024-08-17T12:00:00Z",
-            "Header" : "EPIC_FOOTSTEPS_NAME",
+            "Description" : " ",
+            "EndDateTime" : "2028-08-17T12:00:00Z",
+            "Header" : "OG STUMBLE GUYS GIFT",
             "IsOneTimeOffer" : false,
             "IterationMaxBuyCount" : 1,
             "MaxBuyCount" : 1,
@@ -220299,7 +220299,7 @@
                "FillGradientColor1" : "#8A00FF",
                "FillGradientColor2" : "#FF00FE"
             },
-            "Version" : "0.76"
+            "Version" : "0.45.1"
          },
          {
             "BackgroundColor" : "#00CC17",
