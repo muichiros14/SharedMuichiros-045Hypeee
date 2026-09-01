@@ -13561,7 +13561,7 @@
               "Amount": 5,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "TypeInfo": "gems"
             }
           ],
           "PremiumReward": [
@@ -13581,7 +13581,7 @@
               "Amount": 15,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "TypeInfo": "gems"
             }
           ],
           "Tokens": 1950,
@@ -13689,7 +13689,7 @@
               "Amount": 5,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "TypeInfo": "gems"
             }
           ],
           "PremiumReward": [
@@ -13729,7 +13729,7 @@
               "Amount": 25,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "TypeInfo": "gems"
             }
           ],
           "Tokens": 7950,
@@ -13805,7 +13805,7 @@
               "Amount": 20,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "TypeInfo": "gems"
             }
           ],
           "Tokens": 12250,
@@ -13849,7 +13849,7 @@
               "Amount": 5,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "TypeInfo": "gems"
             }
           ],
           "PremiumReward": [
@@ -13921,7 +13921,7 @@
               "Amount": 5,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "TypeInfo": "gems"
             }
           ],
           "PremiumReward": [
@@ -13929,7 +13929,7 @@
               "Amount": 5,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "TypeInfo": "gems"
             }
           ],
           "Tokens": 20700,
@@ -137290,7 +137290,7 @@
       "Name": "3_2_BouquetGuyBundle_gem_offer",
       "prices": [
         {
-          "currency": "cartridge_coin",
+          "currency": "gems",
           "amount": 15
         }
       ],
@@ -143447,7 +143447,7 @@
           "min": 1,
           "max": 1,
           "type": "CURRENCY",
-          "typeInfo": "cartridge_coin"
+          "typeInfo": "gems"
         }
       ],
       "Source": "Offer"
@@ -143866,7 +143866,7 @@
       "Name": "3_7_Aurore_gem_offer",
       "prices": [
         {
-          "currency": "cartridge_coin",
+          "currency": "gems",
           "amount": 35
         }
       ],
@@ -144090,7 +144090,7 @@
       "Name": "3_7_FlowFatale_gem_offer",
       "prices": [
         {
-          "currency": "cartridge_coin",
+          "currency": "gems",
           "amount": 100
         }
       ],
@@ -144109,7 +144109,7 @@
       "Name": "3_7_GrannyGloom_gem_offer",
       "prices": [
         {
-          "currency": "cartridge_coin",
+          "currency": "gems",
           "amount": 350
         }
       ],
@@ -144128,7 +144128,7 @@
       "Name": "3_7_Ronin27_gem_offer",
       "prices": [
         {
-          "currency": "cartridge_coin",
+          "currency": "gems",
           "amount": 999
         }
       ],
@@ -229343,7 +229343,7 @@
       },
       {
         "StartDateTime": "2025-03-02T10:00:00Z",
-        "EndDateTime": "2027-03-05T10:00:00Z",
+        "EndDateTime": "2022-03-05T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_2_BouquetGuyBundle_gem_offer",
         "Version": "0.65",
