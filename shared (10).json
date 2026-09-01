@@ -2481,7 +2481,7 @@
       "RequiredShards": 0
     }
   ],
-  "BackendUrl": "https://lobbyzn-1.onrender.com/",
+  "BackendUrl": "https://api.stumblebeast.com",
   "BattlePass": {
     "PremiumCost": 1200,
     "TierCost": 30,
@@ -2492,7 +2492,7 @@
             "Amount": 1,
             "Type": "SKIN",
             "RewardType": "SKIN",
-            "TypeInfo": "SKIN769"
+            "TypeInfo": "random"
           }
         ],
         "PremiumReward": [
@@ -3191,7 +3191,7 @@
     {
       "DateID": 72,
       "EndDate": "2030-01-01T10:00:00Z",
-      "PassID": 95,
+      "PassID": 72,
       "StartDate": "2025-07-03T10:00:00Z",
       "Platforms": [
         "web",
@@ -13485,11 +13485,11 @@
           "Discount": 15
         }
       ],
-      "PremiumCost": 650,
+      "PremiumCost": 1200,
       "TierCost": 30,
       "Title": "STUMBLE_PASS",
       "ShopOfferID": "battle_pass_offer_Tiki",
-      "ThemeName": " ",
+      "ThemeName": "",
       "Tiers": [
         {
           "FreeReward": [
@@ -13497,7 +13497,7 @@
               "Amount": 1,
               "Type": "EMOTE",
               "RewardType": "EMOTE",
-              "TypeInfo": "Emote262_BubbleGum"
+              "TypeInfo": "Emote397_Based"
             }
           ],
           "PremiumReward": [
@@ -13505,7 +13505,7 @@
               "Amount": 1,
               "Type": "SKIN",
               "RewardType": "SKIN",
-              "TypeInfo": "SKIN867"
+              "TypeInfo": "SKIN1036"
             }
           ],
           "Tokens": 200,
@@ -13517,7 +13517,7 @@
               "Amount": 1,
               "Type": "ANIMATION",
               "RewardType": "ANIMATION",
-              "TypeInfo": "Victory054_GetSturdyDance"
+              "TypeInfo": "Victory173_PigeonFeeding"
             }
           ],
           "Tokens": 450,
@@ -13558,10 +13558,10 @@
         {
           "FreeReward": [
             {
-              "Amount": 5,
-              "Type": "CURRENCY",
-              "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "Amount": 1,
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_CommonPrizebox"
             }
           ],
           "PremiumReward": [
@@ -13569,7 +13569,7 @@
               "Amount": 1,
               "Type": "EMOTE",
               "RewardType": "EMOTE",
-              "TypeInfo": "Emote079_Taunt_Meditating"
+              "TypeInfo": "Emote346_Zen"
             }
           ],
           "Tokens": 1500,
@@ -13578,10 +13578,10 @@
         {
           "PremiumReward": [
             {
-              "Amount": 15,
-              "Type": "CURRENCY",
-              "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "Amount": 1,
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_7_TMNT_Prizebox"
             }
           ],
           "Tokens": 1950,
@@ -13590,7 +13590,7 @@
         {
           "FreeReward": [
             {
-              "Amount": 25,
+              "Amount": 50,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
               "TypeInfo": "gems"
@@ -13613,7 +13613,7 @@
               "Amount": 1,
               "Type": "EMOTE",
               "RewardType": "EMOTE",
-              "TypeInfo": "Emote142_Taunt_AlienAbduction"
+              "TypeInfo": "Emote349"
             }
           ],
           "Tokens": 3000,
@@ -13623,17 +13623,17 @@
           "FreeReward": [
             {
               "Amount": 1,
-              "Type": "ANIMATION",
-              "RewardType": "ANIMATION",
-              "TypeInfo": "Victory015_Shuffle"
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_CommonPrizebox"
             }
           ],
           "PremiumReward": [
             {
               "Amount": 1,
-              "Type": "SKIN",
-              "RewardType": "SKIN",
-              "TypeInfo": "SKIN888"
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_RarePrizebox"
             }
           ],
           "Tokens": 3600,
@@ -13645,7 +13645,7 @@
               "Amount": 1,
               "Type": "ANIMATION",
               "RewardType": "ANIMATION",
-              "TypeInfo": "Victory144_LevelMC"
+              "TypeInfo": "Victory180_DontStartNow"
             }
           ],
           "Tokens": 4250,
@@ -13662,7 +13662,7 @@
           ],
           "PremiumReward": [
             {
-              "Amount": 45,
+              "Amount": 100,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
               "TypeInfo": "dust"
@@ -13686,18 +13686,18 @@
         {
           "FreeReward": [
             {
-              "Amount": 5,
-              "Type": "CURRENCY",
-              "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "Amount": 1,
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_CommonPrizebox"
             }
           ],
           "PremiumReward": [
             {
               "Amount": 1,
-              "Type": "ANIMATION",
-              "RewardType": "ANIMATION",
-              "TypeInfo": "Victory115_Freezing"
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_RarePrizebox"
             }
           ],
           "Tokens": 6400,
@@ -13709,7 +13709,7 @@
               "Amount": 1,
               "Type": "EMOTE",
               "RewardType": "EMOTE",
-              "TypeInfo": "Emote291_Taunt_CallingtheDragon"
+              "TypeInfo": "Emote355_Taunt_CanCrush"
             }
           ],
           "Tokens": 7150,
@@ -13721,15 +13721,15 @@
               "Amount": 1,
               "Type": "EMOTE",
               "RewardType": "EMOTE",
-              "TypeInfo": "emote_dab"
+              "TypeInfo": "Emote354_Chilli"
             }
           ],
           "PremiumReward": [
             {
-              "Amount": 25,
+              "Amount": 50,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "TypeInfo": "gems"
             }
           ],
           "Tokens": 7950,
@@ -13739,9 +13739,9 @@
           "PremiumReward": [
             {
               "Amount": 1,
-              "Type": "ANIMATION",
-              "RewardType": "ANIMATION",
-              "TypeInfo": "animation_thriller"
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_7_TMNT_Prizebox"
             }
           ],
           "Tokens": 8750,
@@ -13751,17 +13751,17 @@
           "FreeReward": [
             {
               "Amount": 1,
-              "Type": "SKIN",
-              "RewardType": "SKIN",
-              "TypeInfo": "SKIN841"
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_CommonPrizebox"
             }
           ],
           "PremiumReward": [
             {
               "Amount": 1,
-              "Type": "SKIN",
-              "RewardType": "SKIN",
-              "TypeInfo": "SKIN483"
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_RarePrizebox"
             }
           ],
           "Tokens": 9600,
@@ -13793,7 +13793,7 @@
               "Amount": 1,
               "Type": "EMOTE",
               "RewardType": "EMOTE",
-              "TypeInfo": "Emote162_Taunt_Dizze"
+              "TypeInfo": "Emote356_Taunt_PaperBag"
             }
           ],
           "Tokens": 11350,
@@ -13802,10 +13802,10 @@
         {
           "PremiumReward": [
             {
-              "Amount": 20,
-              "Type": "CURRENCY",
-              "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "Amount": 1,
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_7_TMNT_Prizebox"
             }
           ],
           "Tokens": 12250,
@@ -13815,17 +13815,17 @@
           "FreeReward": [
             {
               "Amount": 1,
-              "Type": "SKIN",
-              "RewardType": "SKIN",
-              "TypeInfo": "SKIN334"
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_CommonPrizebox"
             }
           ],
           "PremiumReward": [
             {
-              "Amount": 15,
-              "Type": "CURRENCY",
-              "RewardType": "CURRENCY",
-              "TypeInfo": "dust"
+              "Amount": 1,
+              "Type": "FOOTSTEPS",
+              "RewardType": "FOOTSTEPS",
+              "TypeInfo": "Steps191"
             }
           ],
           "Tokens": 13250,
@@ -13835,9 +13835,9 @@
           "PremiumReward": [
             {
               "Amount": 1,
-              "Type": "EMOTE",
-              "RewardType": "EMOTE",
-              "TypeInfo": "emote_taunt13"
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_RarePrizebox"
             }
           ],
           "Tokens": 14250,
@@ -13846,10 +13846,10 @@
         {
           "FreeReward": [
             {
-              "Amount": 5,
-              "Type": "CURRENCY",
-              "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "Amount": 1,
+              "Type": "FOOTSTEPS",
+              "RewardType": "FOOTSTEPS",
+              "TypeInfo": "Steps192"
             }
           ],
           "PremiumReward": [
@@ -13857,7 +13857,7 @@
               "Amount": 1,
               "Type": "EMOTE",
               "RewardType": "EMOTE",
-              "TypeInfo": "Emote199_Taunt_CryingSpongeBob"
+              "TypeInfo": "Emote360_Taunt_TurtleWiggle"
             }
           ],
           "Tokens": 15500,
@@ -13869,7 +13869,7 @@
               "Amount": 1,
               "Type": "ANIMATION",
               "RewardType": "ANIMATION",
-              "TypeInfo": "Victory075_Loser"
+              "TypeInfo": "Victory172_NinjaSlice"
             }
           ],
           "Tokens": 16750,
@@ -13886,7 +13886,7 @@
           ],
           "PremiumReward": [
             {
-              "Amount": 95,
+              "Amount": 50,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
               "TypeInfo": "gems"
@@ -13907,9 +13907,9 @@
           "PremiumReward": [
             {
               "Amount": 1,
-              "Type": "SKIN",
-              "RewardType": "SKIN",
-              "TypeInfo": "SKIN767"
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_RarePrizebox"
             }
           ],
           "Tokens": 19350,
@@ -13918,18 +13918,18 @@
         {
           "FreeReward": [
             {
-              "Amount": 5,
-              "Type": "CURRENCY",
-              "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "Amount": 1,
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_CommonPrizebox"
             }
           ],
           "PremiumReward": [
             {
-              "Amount": 5,
-              "Type": "CURRENCY",
-              "RewardType": "CURRENCY",
-              "TypeInfo": "cartridge_coin"
+              "Amount": 1,
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_7_TMNT_Prizebox"
             }
           ],
           "Tokens": 20700,
@@ -13941,18 +13941,58 @@
               "Amount": 1,
               "Type": "ANIMATION",
               "RewardType": "ANIMATION",
-              "TypeInfo": "Victory130_UmbrellaFlip"
+              "TypeInfo": "Victory171_EndIsNear"
             }
           ],
           "PremiumReward": [
             {
-              "Amount": 45,
-              "Type": "CURRENCY",
-              "RewardType": "CURRENCY",
-              "TypeInfo": "gems"
+              "Amount": 1,
+              "Type": "FOOTSTEPS",
+              "RewardType": "FOOTSTEPS",
+              "TypeInfo": "Steps193"
             }
           ],
           "Tokens": 22050,
+          "OverrideIndex": 0
+        },
+        {
+          "FreeReward": [
+            {
+              "Amount": 1,
+              "Type": "LOOTBOX",
+              "RewardType": "LOOTBOX",
+              "TypeInfo": "Console_1_9_RarePrizebox"
+            }
+          ],
+          "PremiumReward": [
+            {
+              "Amount": 1,
+              "Type": "EMOTE",
+              "RewardType": "EMOTE",
+              "TypeInfo": "Emote258_Action_SprayWater"
+            }
+          ],
+          "Tokens": 23550,
+          "OverrideIndex": 0
+        },
+        {
+          "FreeReward": [
+            {
+              "Amount": 1,
+              "Type": "SKIN",
+              "RewardType": "SKIN",
+              "TypeInfo": "SKIN1038"
+            }
+          ],
+          "PremiumReward": [
+            {
+              "Amount": 1,
+              "Type": "SKIN",
+              "RewardType": "SKIN",
+              "TypeInfo": "SKIN1021"
+            }
+          ],
+          "Tokens": 25050,
           "OverrideIndex": 0
         }
       ]
@@ -22421,16 +22461,6 @@
         "SecondsPerUnit": 28800,
         "UnitCost": 0
       },
-            {
-            "Name": "cartridge_coin",
-            "StartDateTime": "2023-05-16T15:00:00",
-            "EndDateTime": "2027-05-23T15:00:00",
-            "Icon": "Christmas_LTC",
-            "Icon3D": "Christmas_LTC",
-            "FriendlyName": "Doces",
-            "Description": "LTC_DESC",
-            "MaxAmount": 0
-        },
       {
         "Name": "video_gems",
         "MaxAmount": 10,
@@ -22452,23 +22482,6 @@
         "Icon3D": "",
         "FriendlyName": "PREMIUM_TOURNAMENT_TICKET_NAME",
         "Description": "",
-        "MaxAmount": 0,
-        "SoftCap": 3,
-        "IsIAA": false,
-        "AllowedPlatforms": [],
-        "ExcludedPlatforms": [],
-        "DefaultAmount": 0,
-        "SecondsPerUnit": 0,
-        "UnitCost": 0
-      },
-            {
-        "Name": "cartridge_coin",
-        "StartDateTime": "2023-09-29T10:00:00",
-        "EndDateTime": "2027-09-29T10:00:00",
-        "Icon": "Christmas_LTC",
-        "Icon3D": "Christmas_LTC",
-        "FriendlyName": "Doces",
-        "Description": "LTC_DESC",
         "MaxAmount": 0,
         "SoftCap": 3,
         "IsIAA": false,
@@ -24347,26 +24360,26 @@
       "RequiredShards": 0,
       "IsTaunt": false
     },
-    {
-      "FriendlyName": "Vroom Vroom",
-      "Hidden": false,
-      "ID": "Emote116_Taunt_VroomVroom",
-      "InternalID": 116,
-      "NoGacha": true,
-      "Rarity": "LEGENDARY",
-      "RequiredShards": 0,
-      "Tier": 5
-    },
-    {
-      "FriendlyName": "Floss",
-      "Hidden": false,
-      "ID": "Emote040_Taunt_Floss",
-      "InternalID": 40,
-      "NoGacha": true,
-      "Rarity": "EPIC",
-      "RequiredShards": 0,
-      "Tier": 4
-    },
+          {
+         "FriendlyName" : "Vroom Vroom",
+         "Hidden" : false,
+         "ID" : "Emote116_Taunt_VroomVroom",
+         "InternalID" : 116,
+         "NoGacha" : true,
+         "Rarity" : "LEGENDARY",
+         "RequiredShards" : 0,
+         "Tier" : 5
+      },
+            {
+         "FriendlyName" : "Floss",
+         "Hidden" : false,
+         "ID" : "Emote040_Taunt_Floss",
+         "InternalID" : 40,
+         "NoGacha" : true,
+         "Rarity" : "EPIC",
+         "RequiredShards" : 0,
+         "Tier" : 4
+      },
     {
       "ID": "Emote107_GoodLuck",
       "Hidden": false,
@@ -68220,13 +68233,12 @@
     {
       "Id": "250626_Bdrushteams_N_BD_T_1_8",
       "StartDateTime": "2025-04-08T14:00:00Z",
-      "EndDateTime": "2024-04-18T10:00:00Z",
+      "EndDateTime": "2027-04-18T10:00:00Z",
       "LeaderboardEndSafetyPeriod": "00:12:57",
       "BotsDisabled": false,
       "CollectRewardsEndDateTime": "2027-07-03T10:00:00Z",
-      "CurrencyId": "cartridge_coin",
       "CustomPartyAllowed": true,
-      "Description": "(.gg/stumblecats)",
+      "Description": "(.gg/bloodsg)",
       "DescriptionTitle": "EVENT_DESCRIPTION_TITLE_1",
       "EventGraphics": {
         "Color": "#b300ff",
@@ -68275,12 +68287,12 @@
       "Name": "Elimination Maps",
       "Players": 8,
       "TeamPlayers": 1,
-      "ApolloTeamMode": false,
+      "ApolloTeamMode": true,
       "ActionEmoteShowcaseId": -1,
       "ActionEmoteShowcaseStartingLevel": 1,
       "ActionEmotesHidden": false,
       "PartyScoringMode": false,
-      "PreviewDateTime": "2027-06-26T10:00:00Z",
+      "PreviewDateTime": "2025-06-26T10:00:00Z",
       "Priority": 2,
       "ProgressionId": "",
       "Requirements": [
@@ -68365,7 +68377,7 @@
         "web",
         "steam"
       ],
-      "MinVersion": "0.65",
+      "MinVersion": "0.63.2",
       "GameMode": "UNKNOWN",
       "ActionEmotesAccessibility": {
         "ActionEmotesHidden": false,
@@ -119298,6 +119310,48 @@
           ]
         },
         {
+          "ID": "EPIC",
+          "MaxID": 80,
+          "Prices": [
+            {
+              "Amount": 35,
+              "Currency": "dust"
+            }
+          ],
+          "VisualDrops": [
+            "special",
+            "epic",
+            "epic",
+            "legendary",
+            "epic",
+            "epic",
+            "epic",
+            "legendary",
+            "epic",
+            "epic",
+            "epic",
+            "legendary",
+            "epic",
+            "epic",
+            "special",
+            "epic",
+            "epic",
+            "legendary",
+            "epic",
+            "epic",
+            "epic",
+            "legendary",
+            "epic",
+            "epic",
+            "epic",
+            "legendary",
+            "epic",
+            "epic",
+            "epic",
+            "legendary",
+            "epic",
+            "epic"
+          ],
           "Drops": [
             "epic",
             "epic",
@@ -119398,48 +119452,6 @@
             "epic",
             "epic",
             "special",
-            "epic"
-          ],
-          "ID": "EPIC",
-          "MaxID": 80,
-          "Prices": [
-            {
-              "Amount": 35,
-              "Currency": "dust"
-            }
-          ],
-          "VisualDrops": [
-            "special",
-            "epic",
-            "epic",
-            "legendary",
-            "epic",
-            "epic",
-            "epic",
-            "legendary",
-            "epic",
-            "epic",
-            "epic",
-            "legendary",
-            "epic",
-            "epic",
-            "special",
-            "epic",
-            "epic",
-            "legendary",
-            "epic",
-            "epic",
-            "epic",
-            "legendary",
-            "epic",
-            "epic",
-            "epic",
-            "legendary",
-            "epic",
-            "epic",
-            "epic",
-            "legendary",
-            "epic",
             "epic"
           ]
         }
@@ -120624,7 +120636,16 @@
           "Priority": 15
         },
         {
-          "Category": "SKINS",
+          "ID": "EPIC",
+          "MaxID": 80,
+          "MinTier": 4,
+          "MinRarity": "EPIC",
+          "Prices": [
+            {
+              "Amount": 35,
+              "Currency": "dust"
+            }
+          ],
           "Drops": [
             4,
             4,
@@ -121182,10 +121203,7 @@
       "Type": "DAILY",
       "Category": "BUCKET_0",
       "EventId": "",
-      "PlayerLevels": [
-        1,
-        9999999
-      ],
+      "PlayerLevels": [1, 9999999],
       "Rewards": [
         {
           "min": 1850,
@@ -137317,17 +137335,29 @@
       "Name": "3_2_BouquetGuyBundle_gem_offer",
       "prices": [
         {
-          "currency": "cartridge_coin",
-          "amount": 15
+          "currency": "gems",
+          "amount": 320
         }
       ],
       "analyticsPrices": [],
       "rewards": [
         {
-          "min": 5,
-          "max": 5,
+          "min": 1,
+          "max": 1,
+          "type": "FOOTSTEPS",
+          "typeInfo": "Steps060_SproutingFlowers"
+        },
+        {
+          "min": 1,
+          "max": 1,
+          "type": "SKIN",
+          "typeInfo": "SKIN979"
+        },
+        {
+          "min": 1,
+          "max": 1,
           "type": "EMOTE",
-          "typeInfo": "Emote237_SurprisedSpongeBob"
+          "typeInfo": "Emote388_CoolSun"
         }
       ],
       "Source": "Offer"
@@ -142101,7 +142131,7 @@
       "prices": [
         {
           "currency": "gems",
-          "amount": 500
+          "amount": 620
         }
       ],
       "analyticsPrices": [],
@@ -142110,7 +142140,13 @@
           "min": 1,
           "max": 1,
           "type": "SKIN",
-          "typeInfo": "SKIN496"
+          "typeInfo": "SKIN787"
+        },
+        {
+          "min": 1,
+          "max": 1,
+          "type": "ANIMATION",
+          "typeInfo": "Victory023_RunningMan"
         }
       ],
       "Source": "Offer"
@@ -143465,7 +143501,7 @@
       "prices": [
         {
           "currency": "gems",
-          "amount": 0
+          "amount": 250
         }
       ],
       "analyticsPrices": [],
@@ -143473,8 +143509,14 @@
         {
           "min": 1,
           "max": 1,
-          "type": "CURRENCY",
-          "typeInfo": "cartridge_coin"
+          "type": "SKIN",
+          "typeInfo": "SKIN825"
+        },
+        {
+          "min": 1,
+          "max": 1,
+          "type": "FOOTSTEPS",
+          "typeInfo": "Steps229_Sharks"
         }
       ],
       "Source": "Offer"
@@ -143893,8 +143935,8 @@
       "Name": "3_7_Aurore_gem_offer",
       "prices": [
         {
-          "currency": "cartridge_coin",
-          "amount": 35
+          "currency": "gems",
+          "amount": 2500
         }
       ],
       "analyticsPrices": [],
@@ -143903,7 +143945,13 @@
           "min": 1,
           "max": 1,
           "type": "SKIN",
-          "typeInfo": "SKIN825"
+          "typeInfo": "SKIN1259"
+        },
+        {
+          "min": 1,
+          "max": 1,
+          "type": "FOOTSTEPS",
+          "typeInfo": "Steps109_ConstellationSteps"
         }
       ],
       "Source": "Offer"
@@ -144117,8 +144165,8 @@
       "Name": "3_7_FlowFatale_gem_offer",
       "prices": [
         {
-          "currency": "cartridge_coin",
-          "amount": 100
+          "currency": "gems",
+          "amount": 780
         }
       ],
       "analyticsPrices": [],
@@ -144126,8 +144174,20 @@
         {
           "min": 1,
           "max": 1,
+          "type": "FOOTSTEPS",
+          "typeInfo": "Steps229_Sharks"
+        },
+        {
+          "min": 1,
+          "max": 1,
           "type": "SKIN",
-          "typeInfo": "SKIN859"
+          "typeInfo": "SKIN1101"
+        },
+        {
+          "min": 1,
+          "max": 1,
+          "type": "ANIMATION",
+          "typeInfo": "Victory174_AutobahnKick"
         }
       ],
       "Source": "Offer"
@@ -144136,8 +144196,8 @@
       "Name": "3_7_GrannyGloom_gem_offer",
       "prices": [
         {
-          "currency": "cartridge_coin",
-          "amount": 350
+          "currency": "gems",
+          "amount": 1500
         }
       ],
       "analyticsPrices": [],
@@ -144146,7 +144206,13 @@
           "min": 1,
           "max": 1,
           "type": "SKIN",
-          "typeInfo": "SKIN879"
+          "typeInfo": "SKIN1245"
+        },
+        {
+          "min": 1,
+          "max": 1,
+          "type": "FOOTSTEPS",
+          "typeInfo": "Steps257_CreepyHands"
         }
       ],
       "Source": "Offer"
@@ -144155,8 +144221,8 @@
       "Name": "3_7_Ronin27_gem_offer",
       "prices": [
         {
-          "currency": "cartridge_coin",
-          "amount": 999
+          "currency": "gems",
+          "amount": 600
         }
       ],
       "analyticsPrices": [],
@@ -144165,7 +144231,13 @@
           "min": 1,
           "max": 1,
           "type": "SKIN",
-          "typeInfo": "SKIN880"
+          "typeInfo": "SKIN871"
+        },
+        {
+          "min": 1,
+          "max": 1,
+          "type": "ANIMATION",
+          "typeInfo": "Victory055_NinjaRun"
         }
       ],
       "Source": "Offer"
@@ -148696,14 +148768,8 @@
         {
           "min": 1,
           "max": 1,
-          "type": "SKIN",
-          "typeInfo": "SKIN77"
-        },
-        {
-          "min": 1,
-          "max": 1,
-          "type": "SKIN",
-          "typeInfo": "SKIN78"
+          "type": "EMOTE",
+          "typeInfo": "Emote110_EasterEgg"
         }
       ],
       "Source": "Offer"
@@ -223993,10 +224059,10 @@
         "EndDateTime": "2027-03-31T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_27_SpecialChase_Wheel",
-        "Version": "0.65",
-        "BackgroundImage": "charBG_world",
-        "Description": " ",
-        "Header": "LIMITED_TIME_WHEEL",
+        "Version": "0.63.2",
+        "BackgroundImage": "charBG_Dragon",
+        "Description": "",
+        "Header": "SGB Wheel",
         "SkinReferenceID": "SKIN441",
         "RotationItemList": [
           "SKIN441",
@@ -224028,7 +224094,7 @@
           "Emote102_Taunt_NeonSmileyFace"
         ],
         "Category": "SKINS",
-        "Priority": 95,
+        "Priority": 26,
         "Platforms": [
           "ios",
           "android",
@@ -224062,7 +224128,7 @@
       {
         "Id": "3_28_Kevko_Wheel",
         "StartDateTime": "2025-03-28T10:00:00Z",
-        "EndDateTime": "2024-03-31T10:00:00Z",
+        "EndDateTime": "2027-03-31T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_28_Kevko_Wheel",
         "Version": "0.63.2",
@@ -228648,8 +228714,361 @@
       }
     ],
     "OfferPopupMinSeconds": 1800,
-    "OfferRotations": [],
-    "OfferRotations_v2": [],
+    "OfferRotations": [
+      {
+        "Conditions": [
+          {
+            "ID": "remove_ads",
+            "MinValue": 0,
+            "MaxValue": 0,
+            "Type": "CURRENCY"
+          }
+        ],
+        "Offers": [
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_4k",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x3"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "rare_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x4"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_4k",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x3"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "epic_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x3"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_2o",
+            "Reference": "sg_4k",
+            "Seconds": 172800,
+            "Value": "x6"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "epic_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x3"
+          }
+        ]
+      },
+      {
+        "Conditions": [
+          {
+            "ID": "remove_ads",
+            "MinValue": 1,
+            "MaxValue": 1,
+            "Type": "CURRENCY"
+          }
+        ],
+        "Offers": [
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_10o",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x2"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "rare_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x4"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_10o",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x2"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "epic_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x3"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_5ai",
+            "Reference": "sg_10o",
+            "Seconds": 172800,
+            "Value": "x5"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "rare_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x4"
+          }
+        ]
+      },
+      {
+        "Conditions": [
+          {
+            "ID": "remove_ads",
+            "MinValue": 2,
+            "MaxValue": 1000,
+            "Type": "CURRENCY"
+          }
+        ],
+        "Offers": [
+          {
+            "Popup": true,
+            "PurchasableItem": "mega_offer",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x4"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "rare_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x4"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "mega_offer",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x4"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "epic_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x3"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "mega_discount",
+            "Reference": "mega_offer",
+            "Seconds": 172800,
+            "Value": "x8"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "epic_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x3"
+          }
+        ]
+      }
+    ],
+    "OfferRotations_v2": [
+      {
+        "Id": 1,
+        "AndConditions": [
+          {
+            "ID": "remove_ads",
+            "MinValue": 0,
+            "MaxValue": 0,
+            "Type": "CURRENCY"
+          },
+          {
+            "ID": "remove_interstitial_ads",
+            "MinValue": 0,
+            "MaxValue": 0,
+            "Type": "CURRENCY"
+          }
+        ],
+        "Offers": [
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_4k",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x3"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "rare_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x4"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_4k",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x3"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "epic_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x3"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_2o",
+            "Reference": "sg_4k",
+            "Seconds": 172800,
+            "Value": "x6"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "epic_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x3"
+          }
+        ],
+        "Category": "OFFERS",
+        "Priority": 10
+      },
+      {
+        "Id": 2,
+        "OrConditions": [
+          {
+            "ID": "remove_ads",
+            "MinValue": 1,
+            "MaxValue": 1,
+            "Type": "CURRENCY"
+          },
+          {
+            "ID": "remove_interstitial_ads",
+            "MinValue": 1,
+            "MaxValue": 1,
+            "Type": "CURRENCY"
+          }
+        ],
+        "Offers": [
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_10o",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x2"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "rare_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x4"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_10o",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x2"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "epic_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x3"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "sg_5ai",
+            "Reference": "sg_10o",
+            "Seconds": 172800,
+            "Value": "x5"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "rare_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x4"
+          }
+        ],
+        "Category": "OFFERS",
+        "Priority": 10
+      },
+      {
+        "Id": 3,
+        "OrConditions": [
+          {
+            "ID": "remove_ads",
+            "MinValue": 2,
+            "MaxValue": 1000,
+            "Type": "CURRENCY"
+          },
+          {
+            "ID": "remove_interstitial_ads",
+            "MinValue": 2,
+            "MaxValue": 1000,
+            "Type": "CURRENCY"
+          }
+        ],
+        "Offers": [
+          {
+            "Popup": true,
+            "PurchasableItem": "mega_offer",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x4"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "rare_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x4"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "mega_offer",
+            "Reference": "",
+            "Seconds": 172800,
+            "Value": "x4"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "epic_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x3"
+          },
+          {
+            "Popup": true,
+            "PurchasableItem": "mega_discount",
+            "Reference": "mega_offer",
+            "Seconds": 172800,
+            "Value": "x8"
+          },
+          {
+            "Popup": false,
+            "PurchasableItem": "epic_offer",
+            "Reference": "",
+            "Seconds": 86400,
+            "Value": "x3"
+          }
+        ],
+        "Category": "OFFERS",
+        "Priority": 10
+      }
+    ],
     "AnchorOffers": [
       {
         "StartDateTime": "0001-01-01T00:00:00",
@@ -229074,13 +229493,13 @@
       },
       {
         "StartDateTime": "2025-03-11T10:00:00Z",
-        "EndDateTime": "2024-03-16T10:00:00Z",
+        "EndDateTime": "2025-03-16T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_13_BugsBunny_sg_lntn2_8a",
-        "Version": "0.67",
-        "BackgroundColor": "#db2e91",
-        "Description": " ",
-        "Header": "Oferta de Doces",
+        "Version": "0.84",
+        "BackgroundColor": "#FF493C",
+        "Description": "3X_ITEMS_DESCRIPTION",
+        "Header": "BugsBundle_Offer_24022025",
         "IsOneTimeOffer": false,
         "TimerColorData": {
           "FillGradientColor1": "#7700FF",
@@ -229370,13 +229789,13 @@
       },
       {
         "StartDateTime": "2025-03-02T10:00:00Z",
-        "EndDateTime": "2027-03-05T10:00:00Z",
+        "EndDateTime": "2025-03-05T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_2_BouquetGuyBundle_gem_offer",
-        "Version": "0.65",
-        "BackgroundColor": "#db2e91",
-        "Description": " ",
-        "Header": "Oferta de Doces",
+        "Version": "0.83",
+        "BackgroundColor": "#00CC17",
+        "Description": "3X_ITEMS_DESCRIPTION",
+        "Header": "STUMBLE_BUNDLE",
         "IsOneTimeOffer": false,
         "TimerColorData": {
           "FillGradientColor1": "#8A00FF",
@@ -229389,7 +229808,7 @@
         "IterationMaxBuyCount": 1,
         "IsSequentialOffer": false,
         "Category": "OFFERS",
-        "Priority": 49,
+        "Priority": 51,
         "Platforms": [
           "ios",
           "android",
@@ -229402,7 +229821,7 @@
         "EndDateTime": "2025-03-24T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_20_Taz_sg_lntn2_30a",
-        "Version": "0.65",
+        "Version": "0.84",
         "BackgroundColor": "#FF493C",
         "Description": "3X_ITEMS_DESCRIPTION",
         "Header": "Taz_Offer_24022025",
@@ -229944,26 +230363,26 @@
       },
       {
         "StartDateTime": "2025-03-03T10:00:00Z",
-        "EndDateTime": "2027-03-06T10:00:00Z",
+        "EndDateTime": "2025-03-06T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_3_WhiteRabbitBundle_gem_offer",
-        "Version": "0.65",
-        "BackgroundColor": "#ff2200",
-        "Description": " ",
-        "Header": "Hot Gloves McLove (EXCLUSIVE)",
+        "Version": "0.83",
+        "BackgroundColor": "#00CC17",
+        "Description": "2X_ITEMS_DESCRIPTION",
+        "Header": "STUMBLE_BUNDLE",
         "IsOneTimeOffer": false,
         "TimerColorData": {
-          "FillGradientColor1": "#ff2200",
-          "FillGradientColor2": "#ff2200",
-          "BorderGradientColor1": "#ff2200",
-          "BorderGradientColor2": "#ff2200"
+          "FillGradientColor1": "#8A00FF",
+          "FillGradientColor2": "#FF00FE",
+          "BorderGradientColor1": "#FF00FE",
+          "BorderGradientColor2": "#FF00FE"
         },
         "ShowDiscount": false,
         "MaxBuyCount": 1,
         "IterationMaxBuyCount": 1,
         "IsSequentialOffer": false,
         "Category": "OFFERS",
-        "Priority": 43,
+        "Priority": 51,
         "Platforms": [
           "ios",
           "android",
@@ -230062,14 +230481,14 @@
       },
       {
         "StartDateTime": "2025-03-06T10:00:00Z",
-        "EndDateTime": "2024-03-13T10:00:00Z",
+        "EndDateTime": "2025-03-13T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_6_LoudBarrel_sg_2c",
-        "Version": "0.65",
+        "Version": "0.84",
         "BackgroundColor": "#af58d1",
-        "Description": " ",
-        "Header": "STUMBLE CATS GIFT",
-        "IsOneTimeOffer": true,
+        "Description": "2X_ITEMS_DESCRIPTION",
+        "Header": "RARE_OFFER_NAME",
+        "IsOneTimeOffer": false,
         "TimerColorData": {
           "FillGradientColor1": "#e0a400",
           "FillGradientColor2": "#ffbf00",
@@ -230091,14 +230510,14 @@
       },
       {
         "StartDateTime": "2025-03-06T10:00:00Z",
-        "EndDateTime": "2023-03-09T10:00:00Z",
+        "EndDateTime": "2025-03-09T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_6_MrNibbsBundle_gem_offer",
-        "Version": "0.65",
+        "Version": "0.83",
         "BackgroundColor": "#00CC17",
-        "Description": " ",
-        "Header": "STUMBLE CATS GIFT",
-        "IsOneTimeOffer": true,
+        "Description": "2X_ITEMS_DESCRIPTION",
+        "Header": "STUMBLE_BUNDLE",
+        "IsOneTimeOffer": false,
         "TimerColorData": {
           "FillGradientColor1": "#8A00FF",
           "FillGradientColor2": "#FF00FE",
@@ -230120,19 +230539,31 @@
       },
       {
         "StartDateTime": "2025-03-07T10:00:00Z",
-        "EndDateTime": "2027-03-08T10:00:00Z",
+        "EndDateTime": "2025-03-08T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_7_Aurore_gem_offer",
-        "Version": "0.65",
+        "Version": "0.84",
         "BackgroundColor": "#db2e91",
-        "Description": " ",
-        "Header": "Oferta de Doces",
+        "Description": "2X_ITEMS_DESCRIPTION",
+        "Header": "Womens_Day_Name_4",
         "IsOneTimeOffer": true,
         "TimerColorData": {
           "FillGradientColor1": "#f552e9",
           "FillGradientColor2": "#c166e5",
           "BorderGradientColor1": "#efc4ff",
           "BorderGradientColor2": "#f2b2d7"
+        },
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 25,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#FF6BBE",
+            "FillGradientColor2": "#FF5E7C",
+            "BorderGradientColor1": "#EECEBC",
+            "BorderGradientColor2": "#930C27"
+          }
         },
         "ShowDiscount": false,
         "MaxBuyCount": 1,
@@ -230149,13 +230580,13 @@
       },
       {
         "StartDateTime": "2025-03-07T10:00:00Z",
-        "EndDateTime": "2027-03-08T10:00:00Z",
+        "EndDateTime": "2025-03-08T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_7_FlowFatale_gem_offer",
-        "Version": "0.65",
+        "Version": "0.84",
         "BackgroundColor": "#db2e91",
-        "Description": " ",
-        "Header": "Oferta de Doces",
+        "Description": "3X_ITEMS_DESCRIPTION",
+        "Header": "Womens_Day_Name_4",
         "IsOneTimeOffer": true,
         "TimerColorData": {
           "FillGradientColor1": "#f552e9",
@@ -230163,34 +230594,17 @@
           "BorderGradientColor1": "#efc4ff",
           "BorderGradientColor2": "#f2b2d7"
         },
-        "ShowDiscount": false,
-        "MaxBuyCount": 1,
-        "IterationMaxBuyCount": 1,
-        "IsSequentialOffer": false,
-        "Category": "OFFERS",
-        "Priority": 52,
-        "Platforms": [
-          "ios",
-          "android",
-          "web",
-          "steam"
-        ]
-      },
-      {
-        "StartDateTime": "2025-03-07T10:00:00Z",
-        "EndDateTime": "2027-03-08T10:00:00Z",
-        "Popup": false,
-        "PurchasableItem": "3_7_GrannyGloom_gem_offer",
-        "Version": "0.65",
-        "BackgroundColor": "#db2e91",
-        "Description": " ",
-        "Header": "Oferta de Doces",
-        "IsOneTimeOffer": true,
-        "TimerColorData": {
-          "FillGradientColor1": "#f552e9",
-          "FillGradientColor2": "#c166e5",
-          "BorderGradientColor1": "#efc4ff",
-          "BorderGradientColor2": "#f2b2d7"
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 30,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#FF6BBE",
+            "FillGradientColor2": "#FF5E7C",
+            "BorderGradientColor1": "#EECEBC",
+            "BorderGradientColor2": "#930C27"
+          }
         },
         "ShowDiscount": false,
         "MaxBuyCount": 1,
@@ -230207,19 +230621,72 @@
       },
       {
         "StartDateTime": "2025-03-07T10:00:00Z",
-        "EndDateTime": "2027-03-08T10:00:00Z",
+        "EndDateTime": "2025-03-08T10:00:00Z",
         "Popup": false,
-        "PurchasableItem": "3_7_Ronin27_gem_offer",
-        "Version": "0.65",
+        "PurchasableItem": "3_7_GrannyGloom_gem_offer",
+        "Version": "0.84",
         "BackgroundColor": "#db2e91",
-        "Description": " ",
-        "Header": "Oferta de Doces",
+        "Description": "2X_ITEMS_DESCRIPTION",
+        "Header": "Womens_Day_Name_4",
         "IsOneTimeOffer": true,
         "TimerColorData": {
           "FillGradientColor1": "#f552e9",
           "FillGradientColor2": "#c166e5",
           "BorderGradientColor1": "#efc4ff",
           "BorderGradientColor2": "#f2b2d7"
+        },
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 50,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#FF6BBE",
+            "FillGradientColor2": "#FF5E7C",
+            "BorderGradientColor1": "#EECEBC",
+            "BorderGradientColor2": "#930C27"
+          }
+        },
+        "ShowDiscount": false,
+        "MaxBuyCount": 1,
+        "IterationMaxBuyCount": 1,
+        "IsSequentialOffer": false,
+        "Category": "OFFERS",
+        "Priority": 52,
+        "Platforms": [
+          "ios",
+          "android",
+          "web",
+          "steam"
+        ]
+      },
+      {
+        "StartDateTime": "2025-03-07T10:00:00Z",
+        "EndDateTime": "2025-03-08T10:00:00Z",
+        "Popup": false,
+        "PurchasableItem": "3_7_Ronin27_gem_offer",
+        "Version": "0.84",
+        "BackgroundColor": "#db2e91",
+        "Description": "2X_ITEMS_DESCRIPTION",
+        "Header": "Womens_Day_Name_4",
+        "IsOneTimeOffer": true,
+        "TimerColorData": {
+          "FillGradientColor1": "#f552e9",
+          "FillGradientColor2": "#c166e5",
+          "BorderGradientColor1": "#efc4ff",
+          "BorderGradientColor2": "#f2b2d7"
+        },
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 70,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#FF6BBE",
+            "FillGradientColor2": "#FF5E7C",
+            "BorderGradientColor1": "#EECEBC",
+            "BorderGradientColor2": "#930C27"
+          }
         },
         "ShowDiscount": false,
         "MaxBuyCount": 1,
@@ -231005,12 +231472,12 @@
       },
       {
         "StartDateTime": "2025-04-20T10:00:00Z",
-        "EndDateTime": "2027-04-21T10:00:00Z",
+        "EndDateTime": "2025-04-21T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "4_20_Easter_free_gift",
-        "Version": "0.47.3",
+        "Version": "0.85",
         "BackgroundColor": "#fac4cb",
-        "Description": " ",
+        "Description": "GUARANTEED_COSMETIC_DESCRIPTION",
         "Header": "FREE_GIFT_HEADER",
         "IsOneTimeOffer": true,
         "TimerColorData": {
@@ -237526,6 +237993,138 @@
         ]
       },
       {
+        "StartDateTime": "2023-01-10T10:00:00Z",
+        "EndDateTime": "2023-02-15T10:00:00Z",
+        "Popup": true,
+        "PurchasableItem": "FTD_sequence_1",
+        "Version": "0.81.5",
+        "BackgroundColor": "#430AA4",
+        "Description": "GET_AHEAD_STARTER_PACK_DESC",
+        "Header": "STARTER_PACK",
+        "IsOneTimeOffer": false,
+        "TimerColorData": {
+          "FillGradientColor1": "#FF6BBE",
+          "FillGradientColor2": "#FF5E7C",
+          "BorderGradientColor1": "#EECEBC",
+          "BorderGradientColor2": "#930C27"
+        },
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 100,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#FF6BBE",
+            "FillGradientColor2": "#FF5E7C",
+            "BorderGradientColor1": "#EECEBC",
+            "BorderGradientColor2": "#930C27"
+          }
+        },
+        "ShowDiscount": false,
+        "OriginalPriceRef": "sg_10a",
+        "MaxBuyCount": 1,
+        "IterationMaxBuyCount": 1,
+        "IsSequentialOffer": true,
+        "SequentialOfferId": "FTD_sequence_1",
+        "GamesPlayedBeforeSurfaced": 3,
+        "ResurfaceIntervalSeconds": 1800,
+        "FinalReminderWindowSeconds": 0,
+        "Category": "OFFERS",
+        "Priority": 4,
+        "Platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      {
+        "StartDateTime": "2023-01-10T10:00:00Z",
+        "EndDateTime": "2022-02-15T10:00:00Z",
+        "Popup": true,
+        "PurchasableItem": "FTD_sequence_2",
+        "Version": "0.81.5",
+        "BackgroundColor": "#430AA4",
+        "Description": "GET_AHEAD_STARTER_PACK_DESC",
+        "Header": "STARTER_PACK",
+        "IsOneTimeOffer": false,
+        "TimerColorData": {
+          "FillGradientColor1": "#FF6BBE",
+          "FillGradientColor2": "#FF5E7C",
+          "BorderGradientColor1": "#EECEBC",
+          "BorderGradientColor2": "#930C27"
+        },
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 100,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#FF6BBE",
+            "FillGradientColor2": "#FF5E7C",
+            "BorderGradientColor1": "#EECEBC",
+            "BorderGradientColor2": "#930C27"
+          }
+        },
+        "ShowDiscount": false,
+        "OriginalPriceRef": "sg_10a",
+        "MaxBuyCount": 1,
+        "IterationMaxBuyCount": 1,
+        "IsSequentialOffer": true,
+        "SequentialOfferId": "FTD_sequence_2",
+        "GamesPlayedBeforeSurfaced": 3,
+        "ResurfaceIntervalSeconds": 1800,
+        "FinalReminderWindowSeconds": 0,
+        "Category": "OFFERS",
+        "Priority": 4,
+        "Platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      {
+        "StartDateTime": "2023-01-10T10:00:00Z",
+        "EndDateTime": "2022-02-15T10:00:00Z",
+        "Popup": true,
+        "PurchasableItem": "FTD_sequence_3",
+        "Version": "0.81.5",
+        "BackgroundColor": "#430AA4",
+        "Description": "GET_AHEAD_STARTER_PACK_DESC",
+        "Header": "STARTER_PACK",
+        "IsOneTimeOffer": false,
+        "TimerColorData": {
+          "FillGradientColor1": "#FF6BBE",
+          "FillGradientColor2": "#FF5E7C",
+          "BorderGradientColor1": "#EECEBC",
+          "BorderGradientColor2": "#930C27"
+        },
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 100,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#FF6BBE",
+            "FillGradientColor2": "#FF5E7C",
+            "BorderGradientColor1": "#EECEBC",
+            "BorderGradientColor2": "#930C27"
+          }
+        },
+        "ShowDiscount": false,
+        "OriginalPriceRef": "sg_10a",
+        "MaxBuyCount": 1,
+        "IterationMaxBuyCount": 1,
+        "IsSequentialOffer": true,
+        "SequentialOfferId": "FTD_sequence_3",
+        "GamesPlayedBeforeSurfaced": 3,
+        "ResurfaceIntervalSeconds": 1800,
+        "FinalReminderWindowSeconds": 0,
+        "Category": "OFFERS",
+        "Priority": 4,
+        "Platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      {
         "StartDateTime": "2025-07-03T10:00:00Z",
         "EndDateTime": "2027-07-03T10:00:00Z",
         "Popup": false,
@@ -238566,6 +239165,138 @@
         ]
       },
       {
+        "StartDateTime": "2023-01-10T10:00:00Z",
+        "EndDateTime": "2022-02-15T10:00:00Z",
+        "Popup": true,
+        "PurchasableItem": "STD_sequence_1",
+        "Version": "0.81.5",
+        "BackgroundColor": "#430AA4",
+        "Description": "GET_AHEAD_STARTER_PACK_DESC",
+        "Header": "VALUE_PACK",
+        "IsOneTimeOffer": false,
+        "TimerColorData": {
+          "FillGradientColor1": "#FF6BBE",
+          "FillGradientColor2": "#FF5E7C",
+          "BorderGradientColor1": "#EECEBC",
+          "BorderGradientColor2": "#930C27"
+        },
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 100,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#FF6BBE",
+            "FillGradientColor2": "#FF5E7C",
+            "BorderGradientColor1": "#EECEBC",
+            "BorderGradientColor2": "#930C27"
+          }
+        },
+        "ShowDiscount": false,
+        "OriginalPriceRef": "sg_10a",
+        "MaxBuyCount": 1,
+        "IterationMaxBuyCount": 1,
+        "IsSequentialOffer": true,
+        "SequentialOfferId": "STD_sequence_1",
+        "GamesPlayedBeforeSurfaced": 3,
+        "ResurfaceIntervalSeconds": 1800,
+        "FinalReminderWindowSeconds": 0,
+        "Category": "OFFERS",
+        "Priority": 2,
+        "Platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      {
+        "StartDateTime": "2023-01-10T10:00:00Z",
+        "EndDateTime": "2022-02-15T10:00:00Z",
+        "Popup": true,
+        "PurchasableItem": "STD_sequence_2",
+        "Version": "0.81.5",
+        "BackgroundColor": "#430AA4",
+        "Description": "GET_AHEAD_STARTER_PACK_DESC",
+        "Header": "VALUE_PACK",
+        "IsOneTimeOffer": false,
+        "TimerColorData": {
+          "FillGradientColor1": "#FF6BBE",
+          "FillGradientColor2": "#FF5E7C",
+          "BorderGradientColor1": "#EECEBC",
+          "BorderGradientColor2": "#930C27"
+        },
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 100,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#FF6BBE",
+            "FillGradientColor2": "#FF5E7C",
+            "BorderGradientColor1": "#EECEBC",
+            "BorderGradientColor2": "#930C27"
+          }
+        },
+        "ShowDiscount": false,
+        "OriginalPriceRef": "sg_10a",
+        "MaxBuyCount": 1,
+        "IterationMaxBuyCount": 1,
+        "IsSequentialOffer": true,
+        "SequentialOfferId": "STD_sequence_2",
+        "GamesPlayedBeforeSurfaced": 3,
+        "ResurfaceIntervalSeconds": 1800,
+        "FinalReminderWindowSeconds": 0,
+        "Category": "OFFERS",
+        "Priority": 2,
+        "Platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      {
+        "StartDateTime": "2023-01-10T10:00:00Z",
+        "EndDateTime": "2023-02-15T10:00:00Z",
+        "Popup": true,
+        "PurchasableItem": "STD_sequence_3",
+        "Version": "0.81.5",
+        "BackgroundColor": "#430AA4",
+        "Description": "GET_AHEAD_STARTER_PACK_DESC",
+        "Header": "VALUE_PACK",
+        "IsOneTimeOffer": false,
+        "TimerColorData": {
+          "FillGradientColor1": "#FF6BBE",
+          "FillGradientColor2": "#FF5E7C",
+          "BorderGradientColor1": "#EECEBC",
+          "BorderGradientColor2": "#930C27"
+        },
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 100,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#FF6BBE",
+            "FillGradientColor2": "#FF5E7C",
+            "BorderGradientColor1": "#EECEBC",
+            "BorderGradientColor2": "#930C27"
+          }
+        },
+        "ShowDiscount": false,
+        "OriginalPriceRef": "sg_10a",
+        "MaxBuyCount": 1,
+        "IterationMaxBuyCount": 1,
+        "IsSequentialOffer": true,
+        "SequentialOfferId": "STD_sequence_3",
+        "GamesPlayedBeforeSurfaced": 3,
+        "ResurfaceIntervalSeconds": 1800,
+        "FinalReminderWindowSeconds": 0,
+        "Category": "OFFERS",
+        "Priority": 2,
+        "Platforms": [
+          "android",
+          "ios"
+        ]
+      },
+      {
         "StartDateTime": "2025-07-03T10:00:00Z",
         "EndDateTime": "2027-08-07T10:00:00Z",
         "Popup": false,
@@ -238936,6 +239667,126 @@
         ],
         "MinVersion": "",
         "MaxVersion": ""
+      },
+      {
+        "StartDateTime": "2024-04-24T11:00:00Z",
+        "EndDateTime": "2025-12-30T00:00:00",
+        "Popup": true,
+        "PurchasableItem": "12_14NewPlayerSegOffer_sg_8ao",
+        "Version": "0.56",
+        "BackgroundColor": "#FFAC1C",
+        "Description": "HUGE_GEM_SALE_DESC",
+        "Header": "SUPER_GEM_SALE",
+        "IsOneTimeOffer": false,
+        "TimerColorData": {
+          "FillGradientColor1": "#F4FF00",
+          "FillGradientColor2": "#FF5D00",
+          "BorderGradientColor1": "#FF5D00",
+          "BorderGradientColor2": "#F4FF00"
+        },
+        "NewBadgeColorData": {
+          "FillGradientColor1": "#F4FF00",
+          "FillGradientColor2": "#FF5D00",
+          "BorderGradientColor1": "#FF5D00",
+          "BorderGradientColor2": "#F4FF00"
+        },
+        "XVALUE": "",
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 400,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#F4FF00",
+            "FillGradientColor2": "#FF5D00",
+            "BorderGradientColor1": "#FF5D00",
+            "BorderGradientColor2": "#F4FF00"
+          }
+        },
+        "ShowDiscount": true,
+        "OriginalPriceRef": "sg_25a",
+        "DiscountColorData": {
+          "FillGradientColor1": "#F4FF00",
+          "FillGradientColor2": "#FF5D00",
+          "BorderGradientColor1": "#FF5D00",
+          "BorderGradientColor2": "#F4FF00"
+        },
+        "Discount": "",
+        "IterationCooldownSeconds": 259200,
+        "IterationMaxBuyCount": 1,
+        "IsSequentialOffer": false,
+        "SequentialOfferId": "",
+        "Category": "OFFERS",
+        "Priority": 30,
+        "Platforms": [
+          "steam",
+          "android",
+          "web",
+          "website",
+          "ios"
+        ],
+        "MinVersion": "",
+        "MaxVersion": ""
+      },
+      {
+        "StartDateTime": "2024-04-24T04:00:00Z",
+        "EndDateTime": "2025-12-30T00:00:00",
+        "Popup": true,
+        "PurchasableItem": "12_14NewPlayerSegOffer_sg_seg_4a",
+        "Version": "0.56",
+        "BackgroundColor": "#FFAC1C",
+        "Description": "HUGE_GEM_SALE_DESC",
+        "Header": "SUPER_GEM_SALE",
+        "IsOneTimeOffer": false,
+        "TimerColorData": {
+          "FillGradientColor1": "#F4FF00",
+          "FillGradientColor2": "#FF5D00",
+          "BorderGradientColor1": "#FF5D00",
+          "BorderGradientColor2": "#F4FF00"
+        },
+        "NewBadgeColorData": {
+          "FillGradientColor1": "#F4FF00",
+          "FillGradientColor2": "#FF5D00",
+          "BorderGradientColor1": "#FF5D00",
+          "BorderGradientColor2": "#F4FF00"
+        },
+        "XVALUE": "",
+        "ValueBadgeData": {
+          "IsPercentage": true,
+          "Value": 325,
+          "Text": "MORE",
+          "IsShown": true,
+          "ColorData": {
+            "FillGradientColor1": "#F4FF00",
+            "FillGradientColor2": "#FF5D00",
+            "BorderGradientColor1": "#FF5D00",
+            "BorderGradientColor2": "#F4FF00"
+          }
+        },
+        "ShowDiscount": true,
+        "OriginalPriceRef": "sg_8a",
+        "DiscountColorData": {
+          "FillGradientColor1": "#F4FF00",
+          "FillGradientColor2": "#FF5D00",
+          "BorderGradientColor1": "#FF5D00",
+          "BorderGradientColor2": "#F4FF00"
+        },
+        "Discount": "",
+        "IterationCooldownSeconds": 259200,
+        "IterationMaxBuyCount": 1,
+        "IsSequentialOffer": false,
+        "SequentialOfferId": "",
+        "Category": "OFFERS",
+        "Priority": 30,
+        "Platforms": [
+          "steam",
+          "android",
+          "web",
+          "website",
+          "ios"
+        ],
+        "MinVersion": "",
+        "MaxVersion": ""
       }
     ],
     "LuckySpinWheel": {
@@ -238956,14 +239807,14 @@
       "PopupSubHeader": "LUCKY_SPIN_WHEEL_POPUP_SUB_HEADER",
       "SpinHeader": "LUCKY_WHEEL_NAME",
       "RotationItemList": [
-        "SKIN1",
-        "SKIN1",
-        "SKIN1",
-        "SKIN1",
-        "SKIN1"
+        "SKIN924",
+        "SKIN583",
+        "SKIN497",
+        "SKIN540",
+        "SKIN534"
       ],
       "SpinVisualDropsList": [
-        "SKIN1",
+        "SKIN534",
         "gems4",
         "rare",
         "aec1",
@@ -238979,7 +239830,7 @@
         "legendary",
         "rare",
         "epic",
-        "SKIN1",
+        "SKIN497",
         "gems2",
         "rare",
         "aec3",
@@ -238987,7 +239838,7 @@
         "legendary",
         "rare",
         "epic",
-        "SKIN1",
+        "SKIN924",
         "gems1",
         "rare",
         "aec4",
@@ -238997,6 +239848,21 @@
         "epic"
       ],
       "DropChancesVisuals": {
+        "aec": {
+          "DropGroups": [
+            "aec4",
+            "aec3",
+            "aec2",
+            "aec1"
+          ],
+          "BackgroundImage": "spr_wheel_bg_skins",
+          "TextColor": "#FFFCD7",
+          "FriendlyName": "Offer_names_28062024_14",
+          "ItemSprite": "AEC_icon",
+          "RewardType": "CURRENCY",
+          "RewardTypeInfo": "aec",
+          "Rarity": "LEGENDARY"
+        },
         "gems": {
           "DropGroups": [
             "gems1",
@@ -239017,10 +239883,10 @@
             "rare",
             "epic",
             "legendary",
-            "SKIN1",
+            "SKIN534",
             "SpecialBeast",
-            "SKIN1",
-            "SKIN1"
+            "SKIN497",
+            "SKIN924"
           ],
           "BackgroundImage": "spr_wheel_bg_skins",
           "TextColor": "#FFFCD7",
@@ -240064,30 +240930,30 @@
         "name": "lucky_spin_wheel",
         "rewards": [
           {
-            "min": 20,
+            "min": 250,
             "type": "CURRENCY",
-            "typeInfo": "dust",
+            "typeInfo": "aec",
             "chance": 9,
             "dropGroup": "aec4"
           },
           {
             "min": 200,
             "type": "CURRENCY",
-            "typeInfo": "dust",
+            "typeInfo": "aec",
             "chance": 9,
             "dropGroup": "aec3"
           },
           {
             "min": 150,
             "type": "CURRENCY",
-            "typeInfo": "dust",
+            "typeInfo": "aec",
             "chance": 9,
             "dropGroup": "aec2"
           },
           {
             "min": 100,
             "type": "CURRENCY",
-            "typeInfo": "dust",
+            "typeInfo": "aec",
             "chance": 7.666,
             "dropGroup": "aec1"
           },
@@ -240892,7 +241758,7 @@
           {
             "min": 1,
             "type": "SKIN",
-            "typeInfo": "SKIN1",
+            "typeInfo": "SKIN540",
             "chance": 0.075,
             "dropGroup": "SpecialBeast"
           },
@@ -240906,7 +241772,7 @@
           {
             "min": 1,
             "type": "SKIN",
-            "typeInfo": "SKIN1",
+            "typeInfo": "SKIN583",
             "chance": 0.03333,
             "dropGroup": "SpecialBeast"
           },
@@ -240944,7 +241810,55 @@
         "aes-consoles": ""
       }
     },
-    "OfferSequences": []
+    "OfferSequences": [
+      {
+        "Id": "STD_sequence",
+        "Enabled": true,
+        "AndConditions": [
+          {
+            "Id": "remove_ads",
+            "MinValue": 0,
+            "MaxValue": 0,
+            "Type": "Currency"
+          },
+          {
+            "Id": "remove_interstitial_ads",
+            "MinValue": 0,
+            "MaxValue": 0,
+            "Type": "Currency"
+          }
+        ],
+        "OrConditions": [],
+        "Offers": [
+          {
+            "Index": 10,
+            "OfferId": "FTD_sequence_2",
+            "Seconds": 0
+          },
+          {
+            "Index": 20,
+            "OfferId": "STD_sequence_2",
+            "Seconds": 0
+          },
+          {
+            "Index": 30,
+            "OfferId": "TTD_sequence_2",
+            "Seconds": 0
+          }
+        ],
+        "Category": "OFFERS",
+        "Priority": 3,
+        "Platforms": [
+          "android",
+          "ios",
+          "steam",
+          "web"
+        ],
+        "MinVersion": "0.64",
+        "MaxVersion": "",
+        "ExpirationTimeInSeconds": 0
+      }
+    ]
   },
   "Skins_v4": [
     {
@@ -255063,7 +255977,7 @@
     "MinimumPingDifferenceToRecommendAChange": 20,
     "MapHydrationTimeoutSeconds": 12,
     "MapBakingTimeoutSeconds": 24,
-    "PhotonRegions": [
+        "PhotonRegions": [
       {
         "RegionCode": "ASIA",
         "IntegerId": 1,
@@ -257975,12 +258889,13 @@
       "HALLOWEEN_THEME": {
         "BackgroundPrefabName": "Sprites/Themes/BG_Theme_Halloween"
       },
-      "SMURFS_THEME": {
-        "BackgroundPrefabName": "Sprites/Themes/BG_Theme_Smurfs"
+"SMURFS_THEME" : {
+            "BackgroundPrefabName" : "Sprites/Themes/BG_Theme_Smurfs"
       },
-      "BG_Theme_Hero_VS_Villain": {
-        "BackgroundPrefabName": "Sprites/Themes/BG_Theme_Hero_VS_Villain"
-      },
+      "BG_Theme_Hero_VS_Villain" : {
+            "BackgroundPrefabName" : "Sprites/Themes/BG_Theme_Hero_VS_Villain"
+         },
+         
       "LT_THEME": {
         "BackgroundPrefabName": "BG_Theme_LT",
         "ParticlePrefabName": "Prefabs/Themes/UI_LT_ParticleSystems"
@@ -257997,6 +258912,7 @@
         "BackgroundPrefabName": "BG_Theme_chronos",
         "ParticlePrefabName": "Prefabs/Themes/UI_chronos_ParticleSystems"
       },
+      
       "DREAMLAND_THEME_2": {
         "BackgroundPrefabName": "Sprites/Themes/BG_Theme_Chronos",
         "ParticlePrefabName": "Prefabs/Themes/UI_chronos_ParticleSystems"
@@ -258057,55 +258973,55 @@
       "JURASSIC_PARK_THEME": {
         "ParticlePrefabName": "Ui_Lobby_JurassicVoyage"
       },
-      "MOTU_THEME": {
-        "BackgroundPrefabName": "Sprites/Themes/BG_Theme_MOTU"
-      }
+               "MOTU_THEME" : {
+            "BackgroundPrefabName" : "Sprites/Themes/BG_Theme_MOTU"
+         }
     },
     "Themes": [
       {
-        "ThemeRef": "TETRIS_THEME",
-        "StartDate": "2024-10-26T03:00:00Z",
-        "EndDate": "2024-12-24T02:00:00Z"
+"ThemeRef": "TETRIS_THEME",
+"StartDate": "2024-10-26T03:00:00Z",
+"EndDate": "2024-12-24T02:00:00Z"
       },
       {
-        "ThemeRef": "TETRIS_THEME",
-        "StartDate": "2024-10-26T03:00:00Z",
-        "EndDate": "2022-12-24T02:00:00Z"
+"ThemeRef": "TETRIS_THEME",
+"StartDate": "2024-10-26T03:00:00Z",
+"EndDate": "2022-12-24T02:00:00Z"
       },
       {
-        "ThemeRef": "LT_THEME",
-        "StartDate": "2024-10-26T03:00:00Z",
-        "EndDate": "2023-12-24T02:00:00Z"
+"ThemeRef": "LT_THEME",
+"StartDate": "2024-10-26T03:00:00Z",
+"EndDate": "2023-12-24T02:00:00Z"
       },
       {
-        "ThemeRef": "MOTU_THEME",
-        "StartDate": "2024-10-26T03:00:00Z",
-        "EndDate": "2024-12-24T02:00:00Z"
+"ThemeRef": "MOTU_THEME",
+"StartDate": "2024-10-26T03:00:00Z",
+"EndDate": "2024-12-24T02:00:00Z"
       },
       {
-        "ThemeRef": "TMNT_THEME",
-        "StartDate": "2024-10-26T03:00:00Z",
-        "EndDate": "2022-12-24T02:00:00Z"
+"ThemeRef": "TMNT_THEME",
+"StartDate": "2024-10-26T03:00:00Z",
+"EndDate": "2022-12-24T02:00:00Z"
+      },
+     {
+"ThemeRef": "CHRISTMAS_THEME",
+"StartDate": "2020-12-24T03:00:00Z",
+"EndDate": "2024-12-27T02:59:59Z"
+      },
+           {
+"ThemeRef": "DnD_THEME",
+"StartDate": "2020-12-24T03:00:00Z",
+"EndDate": "2023-12-27T02:59:59Z"
       },
       {
-        "ThemeRef": "CHRISTMAS_THEME",
-        "StartDate": "2020-12-24T03:00:00Z",
-        "EndDate": "2024-12-27T02:59:59Z"
+"ThemeRef": "SMURFS_THEME",
+"StartDate": "2020-12-24T03:00:00Z",
+"EndDate": "2025-12-27T02:59:59Z"
       },
       {
-        "ThemeRef": "DnD_THEME",
-        "StartDate": "2020-12-24T03:00:00Z",
-        "EndDate": "2023-12-27T02:59:59Z"
-      },
-      {
-        "ThemeRef": "SMURFS_THEME",
-        "StartDate": "2020-12-24T03:00:00Z",
-        "EndDate": "2025-12-27T02:59:59Z"
-      },
-      {
-        "ThemeRef": "BG_Theme_Hero_VS_Villain",
-        "StartDate": "2020-12-24T03:00:00Z",
-        "EndDate": "2025-12-27T02:59:59Z"
+"ThemeRef": "BG_Theme_Hero_VS_Villain",
+"StartDate": "2020-12-24T03:00:00Z",
+"EndDate": "2025-12-27T02:59:59Z"
       }
     ],
     "ThemesXbox": [
@@ -315390,7 +316306,7 @@
         "TimeTopPercentile": 0,
         "IpExperience": "None"
       },
-      {
+            {
         "Id": "League Dash",
         "Type": "RACE",
         "TimeTopPercentile": 0,
@@ -340642,6 +341558,131 @@
         "Important": false
       },
       {
+        "Name": "STARTER_PACK",
+        "OfferType": "Sequential",
+        "Priority": 2,
+        "SectionId": "Section_Offers",
+        "StartDateTime": "2025-04-23T10:00:00Z",
+        "EndDateTime": "2025-12-31T10:00:00Z",
+        "HideEndDate": true,
+        "MaxBuyCount": 1,
+        "ShowRemainingPurchases": true,
+        "PurchasableItem": "FTD_sequence_1",
+        "DiscountTag": {
+          "TagType": "XTimesValue",
+          "TagValue": "2"
+        },
+        "PromotionTag": {
+          "TagType": "Custom",
+          "TagValue": "Best_Deal_Shop_Tag",
+          "ColorHex": "#FF5D37"
+        },
+        "SequentialData": {
+          "SequentialId": "FTD_sequence_1",
+          "GamesPlayedBeforeSurfaced": 3,
+          "ResurfaceIntervalSeconds": 1800,
+          "FinalReminderWindowSeconds": 0,
+          "CellType": "A3"
+        },
+        "Platforms": [
+          "android",
+          "ios",
+          "web",
+          "website"
+        ],
+        "MinVersion": "0.86",
+        "Description": "",
+        "SetType": "MythicGacha",
+        "IsDisabled": false,
+        "ShowLandingPageWhenFree": false,
+        "AnalyticsTag": "",
+        "Important": false
+      },
+      {
+        "Name": "STARTER_PACK",
+        "OfferType": "Sequential",
+        "Priority": 2,
+        "SectionId": "Section_Offers",
+        "StartDateTime": "2025-04-23T10:00:00Z",
+        "EndDateTime": "2025-12-31T10:00:00Z",
+        "HideEndDate": true,
+        "MaxBuyCount": 1,
+        "ShowRemainingPurchases": true,
+        "PurchasableItem": "FTD_sequence_2",
+        "DiscountTag": {
+          "TagType": "XTimesValue",
+          "TagValue": "2"
+        },
+        "PromotionTag": {
+          "TagType": "Custom",
+          "TagValue": "Best_Deal_Shop_Tag",
+          "ColorHex": "#FF5D37"
+        },
+        "SequentialData": {
+          "SequentialId": "FTD_sequence_2",
+          "GamesPlayedBeforeSurfaced": 3,
+          "ResurfaceIntervalSeconds": 1800,
+          "FinalReminderWindowSeconds": 0,
+          "CellType": "A3"
+        },
+        "Platforms": [
+          "android",
+          "ios",
+          "web",
+          "website"
+        ],
+        "MinVersion": "0.86",
+        "Description": "",
+        "Subtitle": "REMOVE_ADS",
+        "SetType": "StarterPack",
+        "IsDisabled": false,
+        "ShowLandingPageWhenFree": false,
+        "AnalyticsTag": "",
+        "Important": false
+      },
+      {
+        "Name": "STARTER_PACK",
+        "OfferType": "Sequential",
+        "Priority": 2,
+        "SectionId": "Section_Offers",
+        "StartDateTime": "2025-04-23T10:00:00Z",
+        "EndDateTime": "2025-12-31T10:00:00Z",
+        "HideEndDate": true,
+        "MaxBuyCount": 1,
+        "ShowRemainingPurchases": true,
+        "PurchasableItem": "FTD_sequence_3",
+        "DiscountTag": {
+          "TagType": "XTimesValue",
+          "TagValue": "2"
+        },
+        "PromotionTag": {
+          "TagType": "Custom",
+          "TagValue": "Best_Deal_Shop_Tag",
+          "ColorHex": "#FF5D37"
+        },
+        "SequentialData": {
+          "SequentialId": "FTD_sequence_3",
+          "GamesPlayedBeforeSurfaced": 3,
+          "ResurfaceIntervalSeconds": 1800,
+          "FinalReminderWindowSeconds": 0,
+          "CellType": "A3"
+        },
+        "Platforms": [
+          "android",
+          "ios",
+          "web",
+          "website"
+        ],
+        "MinVersion": "0.86",
+        "Description": "",
+        "Subtitle": "REMOVE_ADS",
+        "SetType": "MythicGacha",
+        "IsDisabled": false,
+        "ShowLandingPageWhenFree": false,
+        "AnalyticsTag": "",
+        "Important": false
+      },
+      {
         "Name": "Gems Pack 1",
         "OfferType": "Static",
         "Priority": 1,
@@ -341138,6 +342179,114 @@
         "Important": false
       },
       {
+        "Name": "VALUE_PACK",
+        "OfferType": "Sequential",
+        "Priority": 2,
+        "SectionId": "Section_Offers",
+        "StartDateTime": "2025-04-23T10:00:00Z",
+        "EndDateTime": "2025-12-31T10:00:00Z",
+        "HideEndDate": true,
+        "MaxBuyCount": 1,
+        "ShowRemainingPurchases": true,
+        "PurchasableItem": "STD_sequence_1",
+        "DiscountTag": {
+          "TagType": "XTimesValue",
+          "TagValue": "2"
+        },
+        "SequentialData": {
+          "SequentialId": "STD_sequence_1",
+          "GamesPlayedBeforeSurfaced": 3,
+          "ResurfaceIntervalSeconds": 1800,
+          "FinalReminderWindowSeconds": 0,
+          "CellType": "A3"
+        },
+        "Platforms": [
+          "android",
+          "ios",
+          "web",
+          "website"
+        ],
+        "MinVersion": "0.86",
+        "Description": "",
+        "SetType": "MythicGacha",
+        "IsDisabled": false,
+        "ShowLandingPageWhenFree": false,
+        "AnalyticsTag": "",
+        "Important": false
+      },
+      {
+        "Name": "VALUE_PACK",
+        "OfferType": "Sequential",
+        "Priority": 2,
+        "SectionId": "Section_Offers",
+        "StartDateTime": "2025-04-23T10:00:00Z",
+        "EndDateTime": "2025-12-31T10:00:00Z",
+        "HideEndDate": true,
+        "MaxBuyCount": 1,
+        "ShowRemainingPurchases": true,
+        "PurchasableItem": "STD_sequence_2",
+        "DiscountTag": {
+          "TagType": "XTimesValue",
+          "TagValue": "2"
+        },
+        "SequentialData": {
+          "SequentialId": "STD_sequence_2",
+          "GamesPlayedBeforeSurfaced": 3,
+          "ResurfaceIntervalSeconds": 1800,
+          "FinalReminderWindowSeconds": 0,
+          "CellType": "A3"
+        },
+        "Platforms": [
+          "android",
+          "ios",
+          "web",
+          "website"
+        ],
+        "MinVersion": "0.86",
+        "Description": "",
+        "SetType": "MythicGacha",
+        "IsDisabled": false,
+        "ShowLandingPageWhenFree": false,
+        "AnalyticsTag": "",
+        "Important": false
+      },
+      {
+        "Name": "VALUE_PACK",
+        "OfferType": "Sequential",
+        "Priority": 2,
+        "SectionId": "Section_Offers",
+        "StartDateTime": "2025-04-23T10:00:00Z",
+        "EndDateTime": "2025-12-31T10:00:00Z",
+        "HideEndDate": true,
+        "MaxBuyCount": 1,
+        "ShowRemainingPurchases": true,
+        "PurchasableItem": "STD_sequence_3",
+        "DiscountTag": {
+          "TagType": "XTimesValue",
+          "TagValue": "2"
+        },
+        "SequentialData": {
+          "SequentialId": "STD_sequence_3",
+          "GamesPlayedBeforeSurfaced": 3,
+          "ResurfaceIntervalSeconds": 1800,
+          "FinalReminderWindowSeconds": 0,
+          "CellType": "A3"
+        },
+        "Platforms": [
+          "android",
+          "ios",
+          "web",
+          "website"
+        ],
+        "MinVersion": "0.86",
+        "Description": "",
+        "SetType": "MythicGacha",
+        "IsDisabled": false,
+        "ShowLandingPageWhenFree": false,
+        "AnalyticsTag": "",
+        "Important": false
+      },
+      {
         "Name": "Stumble Pass",
         "OfferType": "StumblePass",
         "Priority": 0,
@@ -341446,9 +342595,147 @@
         "ShowLandingPageWhenFree": false,
         "AnalyticsTag": "",
         "Important": false
+      },
+      {
+        "Name": "SUPER_GEM_SALE",
+        "OfferType": "Bundle",
+        "Priority": 1000,
+        "SectionId": "Section_Offers",
+        "StartDateTime": "2024-04-24T11:00:00Z",
+        "EndDateTime": "2025-12-30T00:00:00",
+        "HideEndDate": true,
+        "ShowRemainingPurchases": false,
+        "CooldownConfig": {
+          "IterationMaxBuyCount": 1,
+          "IterationCooldownSeconds": 259200
+        },
+        "PurchasableItem": "12_14NewPlayerSegOffer_sg_8ao",
+        "InitialPurchasableItem": "Dummy_OGPriceRef_sg_25a",
+        "DiscountTag": {
+          "TagType": "XDiscount",
+          "TagValue": "70",
+          "ColorHex": ""
+        },
+        "BundleData": {
+          "CellType": "A2",
+          "ShowOwnedStateWhenPurchased": false,
+          "UsePurchasableItemRewardSorting": false
+        },
+        "RollingAdsData": {
+          "CellType": "Unknown",
+          "ArtPrefabName": ""
+        },
+        "Platforms": [
+          "steam",
+          "android",
+          "web",
+          "website",
+          "ios"
+        ],
+        "MinVersion": "0.86",
+        "MaxVersion": "0.99",
+        "Subtitle": "",
+        "SetType": "Silver",
+        "IsDisabled": false,
+        "ShowLandingPageWhenFree": false,
+        "AnalyticsTag": "",
+        "Important": false
+      },
+      {
+        "Name": "SUPER_GEM_SALE",
+        "OfferType": "Bundle",
+        "Priority": 1000,
+        "SectionId": "Section_Offers",
+        "StartDateTime": "2024-04-24T04:00:00Z",
+        "EndDateTime": "2025-12-30T00:00:00",
+        "HideEndDate": true,
+        "ShowRemainingPurchases": false,
+        "CooldownConfig": {
+          "IterationMaxBuyCount": 1,
+          "IterationCooldownSeconds": 259200
+        },
+        "PurchasableItem": "12_14NewPlayerSegOffer_sg_seg_4a",
+        "InitialPurchasableItem": "Dummy_OGPriceRef_sg_8a",
+        "DiscountTag": {
+          "TagType": "XDiscount",
+          "TagValue": "50",
+          "ColorHex": ""
+        },
+        "BundleData": {
+          "CellType": "A2",
+          "ShowOwnedStateWhenPurchased": false,
+          "UsePurchasableItemRewardSorting": false
+        },
+        "RollingAdsData": {
+          "CellType": "Unknown",
+          "ArtPrefabName": ""
+        },
+        "Platforms": [
+          "steam",
+          "android",
+          "web",
+          "website",
+          "ios"
+        ],
+        "MinVersion": "0.86",
+        "MaxVersion": "0.99",
+        "Subtitle": "",
+        "SetType": "Silver",
+        "IsDisabled": false,
+        "ShowLandingPageWhenFree": false,
+        "AnalyticsTag": "",
+        "Important": false
       }
     ],
-    "OfferSequences": [],
+    "OfferSequences": [
+      {
+        "Id": "STD_sequence",
+        "Enabled": true,
+        "AndConditions": [
+          {
+            "Id": "remove_ads",
+            "MinValue": 0,
+            "MaxValue": 0,
+            "Type": "Currency"
+          },
+          {
+            "Id": "remove_interstitial_ads",
+            "MinValue": 0,
+            "MaxValue": 0,
+            "Type": "Currency"
+          }
+        ],
+        "OrConditions": [],
+        "Offers": [
+          {
+            "Index": 10,
+            "OfferId": "FTD_sequence_2",
+            "Seconds": 0
+          },
+          {
+            "Index": 20,
+            "OfferId": "STD_sequence_2",
+            "Seconds": 0
+          },
+          {
+            "Index": 30,
+            "OfferId": "TTD_sequence_2",
+            "Seconds": 0
+          }
+        ],
+        "Category": "OFFERS",
+        "Priority": 15,
+        "Platforms": [
+          "android",
+          "ios",
+          "steam",
+          "web"
+        ],
+        "MinVersion": "",
+        "MaxVersion": "",
+        "ExpirationTimeInSeconds": 0
+      }
+    ],
     "QualityConfigs": [
       {
         "Platform": "android",
