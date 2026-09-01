@@ -13593,7 +13593,7 @@
               "Amount": 25,
               "Type": "CURRENCY",
               "RewardType": "CURRENCY",
-              "TypeInfo": "gems"
+              "TypeInfo": "dust"
             }
           ],
           "PremiumReward": [
