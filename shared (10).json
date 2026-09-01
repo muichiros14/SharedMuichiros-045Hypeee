@@ -22421,16 +22421,6 @@
         "SecondsPerUnit": 28800,
         "UnitCost": 0
       },
-            {
-            "Name": "cartridge_coin",
-            "StartDateTime": "2023-05-16T15:00:00",
-            "EndDateTime": "2027-05-23T15:00:00",
-            "Icon": "Christmas_LTC",
-            "Icon3D": "Christmas_LTC",
-            "FriendlyName": "Doces",
-            "Description": "LTC_DESC",
-            "MaxAmount": 0
-        },
       {
         "Name": "video_gems",
         "MaxAmount": 10,
@@ -22452,23 +22442,6 @@
         "Icon3D": "",
         "FriendlyName": "PREMIUM_TOURNAMENT_TICKET_NAME",
         "Description": "",
-        "MaxAmount": 0,
-        "SoftCap": 3,
-        "IsIAA": false,
-        "AllowedPlatforms": [],
-        "ExcludedPlatforms": [],
-        "DefaultAmount": 0,
-        "SecondsPerUnit": 0,
-        "UnitCost": 0
-      },
-            {
-        "Name": "cartridge_coin",
-        "StartDateTime": "2023-09-29T10:00:00",
-        "EndDateTime": "2027-09-29T10:00:00",
-        "Icon": "Christmas_LTC",
-        "Icon3D": "Christmas_LTC",
-        "FriendlyName": "Doces",
-        "Description": "LTC_DESC",
         "MaxAmount": 0,
         "SoftCap": 3,
         "IsIAA": false,
