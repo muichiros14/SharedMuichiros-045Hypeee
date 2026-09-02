@@ -3190,7 +3190,7 @@
     },
     {
       "DateID": 72,
-      "EndDate": "2022-01-01T10:00:00Z",
+      "EndDate": "2030-01-01T10:00:00Z",
       "PassID": 95,
       "StartDate": "2025-07-03T10:00:00Z",
       "Platforms": [
@@ -22424,7 +22424,7 @@
             {
             "Name": "cartridge_coin",
             "StartDateTime": "2023-05-16T15:00:00",
-            "EndDateTime": "2027-05-23T15:00:00",
+            "EndDateTime": "2023-05-23T15:00:00",
             "Icon": "Christmas_LTC",
             "Icon3D": "Christmas_LTC",
             "FriendlyName": "Doces",
@@ -22464,7 +22464,7 @@
             {
         "Name": "cartridge_coin",
         "StartDateTime": "2023-09-29T10:00:00",
-        "EndDateTime": "2027-09-29T10:00:00",
+        "EndDateTime": "2023-09-29T10:00:00",
         "Icon": "Christmas_LTC",
         "Icon3D": "Christmas_LTC",
         "FriendlyName": "Doces",
