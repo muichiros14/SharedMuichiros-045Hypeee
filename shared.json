@@ -119858,7 +119858,149 @@
       ],
       "MaxSkinUpgradeTier": 7,
       "MaxSkinUpgradeRarity": "MYTHIC",
-      "SkinUpgradePercent": 0.5
+      "SkinUpgradePercent": 0.5,
+      "DropDefs": [
+        {
+          "ID": "gems1",
+          "rewards": [
+            {
+              "amount": 5,
+              "type": "CURRENCY",
+              "typeInfo": "gems"
+            }
+          ]
+        },
+        {
+          "ID": "gems2",
+          "rewards": [
+            {
+              "amount": 10,
+              "type": "CURRENCY",
+              "typeInfo": "gems"
+            }
+          ]
+        },
+        {
+          "ID": "gems3",
+          "rewards": [
+            {
+              "amount": 15,
+              "type": "CURRENCY",
+              "typeInfo": "gems"
+            }
+          ]
+        },
+        {
+          "ID": "gems4",
+          "rewards": [
+            {
+              "amount": 150,
+              "type": "CURRENCY",
+              "typeInfo": "gems"
+            }
+          ]
+        },
+        {
+          "ID": "tokens1",
+          "rewards": [
+            {
+              "amount": 1,
+              "type": "CURRENCY",
+              "typeInfo": "dust"
+            }
+          ]
+        },
+        {
+          "ID": "tokens2",
+          "rewards": [
+            {
+              "amount": 3,
+              "type": "CURRENCY",
+              "typeInfo": "dust"
+            }
+          ]
+        },
+        {
+          "ID": "tokens3",
+          "rewards": [
+            {
+              "amount": 5,
+              "type": "CURRENCY",
+              "typeInfo": "dust"
+            }
+          ]
+        },
+        {
+          "ID": "tokens4",
+          "rewards": [
+            {
+              "amount": 75,
+              "type": "CURRENCY",
+              "typeInfo": "dust"
+            }
+          ]
+        },
+        {
+          "ID": "common",
+          "rewards": [
+            {
+              "amount": 1,
+              "type": "SKIN",
+              "typeInfo": "COMMON"
+            }
+          ]
+        },
+        {
+          "ID": "uncommon",
+          "rewards": [
+            {
+              "amount": 1,
+              "type": "SKIN",
+              "typeInfo": "UNCOMMON"
+            }
+          ]
+        },
+        {
+          "ID": "rare",
+          "rewards": [
+            {
+              "amount": 1,
+              "type": "SKIN",
+              "typeInfo": "RARE"
+            }
+          ]
+        },
+        {
+          "ID": "epic",
+          "rewards": [
+            {
+              "amount": 1,
+              "type": "SKIN",
+              "typeInfo": "EPIC"
+            }
+          ]
+        },
+        {
+          "ID": "legendary",
+          "rewards": [
+            {
+              "amount": 1,
+              "type": "SKIN",
+              "typeInfo": "LEGENDARY"
+            }
+          ]
+        },
+        {
+          "ID": "special",
+          "rewards": [
+            {
+              "amount": 1,
+              "type": "SKIN",
+              "typeInfo": "SPECIAL"
+            }
+          ]
+        }
+      ]
     },
     "NameChangePrices": [
       {
