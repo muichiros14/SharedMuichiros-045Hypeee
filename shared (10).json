@@ -129656,28 +129656,22 @@
       "analyticsPrices": [],
       "rewards": [
         {
-          "min": 15000,
-          "max": 15000,
-          "type": "CURRENCY",
-          "typeInfo": "gems"
+          "min": 1,
+          "max": 1,
+          "type": "SKIN",
+          "typeInfo": "SKIN349"
         },
         {
-          "min": 5000,
-          "max": 5000,
-          "type": "CURRENCY",
-          "typeInfo": "dust"
+          "min": 1,
+          "max": 1,
+          "type": "EMOTE",
+          "typeInfo": "Emote072_Taunt_Bow"
         },
         {
           "min": 1,
           "max": 1,
           "type": "FOOTSTEPS",
-          "typeInfo": "Steps026_SpainTrail"
-        },
-        {
-          "min": 1,
-          "max": 1,
-          "type": "SKIN",
-          "typeInfo": "SKIN138"
+          "typeInfo": "footsteps_rainbow"
         }
       ],
       "Source": "Offer"
@@ -235959,10 +235953,10 @@
         "EndDateTime": "2027-03-08T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_5_CragBundle_gem_offer",
-        "Version": "0.59",
+        "Version": "0.45.1",
         "BackgroundColor": "#00aaff",
         "Description": " ",
-        "Header": "STUMBLE DASH GIFT",
+        "Header": "FREE_GIFT",
         "IsOneTimeOffer": true,
         "TimerColorData": {
           "FillGradientColor1": "#00aaff",
