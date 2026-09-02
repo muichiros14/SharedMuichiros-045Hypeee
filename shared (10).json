@@ -134537,14 +134537,14 @@
         {
           "min": 1,
           "max": 1,
-          "type": "ANIMATION",
-          "typeInfo": "Victory184"
+          "type": "CURRENCY",
+          "typeInfo": "dust"
         },
         {
           "min": 1,
           "max": 1,
           "type": "SKIN",
-          "typeInfo": "SKIN1074"
+          "typeInfo": "SKIN123"
         },
         {
           "min": 700,
@@ -229823,13 +229823,13 @@
       },
       {
         "StartDateTime": "2025-03-11T10:00:00Z",
-        "EndDateTime": "2025-03-16T10:00:00Z",
+        "EndDateTime": "2027-03-16T10:00:00Z",
         "Popup": false,
         "PurchasableItem": "3_13_BugsBunny_sg_lntn2_8a",
-        "Version": "0.84",
+        "Version": "0.45.1",
         "BackgroundColor": "#FF493C",
         "Description": "3X_ITEMS_DESCRIPTION",
-        "Header": "BugsBundle_Offer_24022025",
+        "Header": "FREE_GIFT",
         "IsOneTimeOffer": false,
         "TimerColorData": {
           "FillGradientColor1": "#7700FF",
