@@ -83270,7 +83270,7 @@
     "SteamPurchaseGems": 800,
     "SupportURL": "https://stumbleguys.helpshift.com/hc/{0}/4-stumble-guys/",
     "TermsOfServiceURL": "https://www.scopely.com/en/legal?id=tos",
-    "UseLegacyNews": true,
+    "UseLegacyNews": false,
     "UseOverrideLevels": false,
     "VariantPrices": [
       {
