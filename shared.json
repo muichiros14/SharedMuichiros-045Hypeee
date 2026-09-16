@@ -39164,13 +39164,13 @@
     {
       "Id": "250629_Cortusschoice_M_E_S_3_24",
       "StartDateTime": "2025-06-29T10:00:00Z",
-      "EndDateTime": "2025-06-30T10:00:00Z",
+      "EndDateTime": "2027-06-30T10:00:00Z",
       "LeaderboardEndSafetyPeriod": "00:12:57",
       "BotsDisabled": false,
-      "CollectRewardsEndDateTime": "2025-06-30T10:00:00Z",
+      "CollectRewardsEndDateTime": "2027-06-30T10:00:00Z",
       "CustomPartyAllowed": true,
-      "Description": "",
-      "DescriptionTitle": "EVENT_DESCRIPTION_TITLE_1",
+      "Description": "EVENTO DE BLOCK DASH KKKKKKKKKK",
+      "DescriptionTitle": "EVENTO DE BLOCK DASH KKKKKKKKKK",
       "EventGraphics": {
         "Color": "#463f82ff",
         "Icon": "placeholder",
@@ -39185,7 +39185,7 @@
           "RoundNumber": 1,
           "Players": 24,
           "Winners": 12,
-          "LevelID": "level12_bomb",
+          "LevelID": "level19_block",
           "RandomLevels": [],
           "RoundRewards": [
             {
@@ -39252,7 +39252,7 @@
           "RoundNumber": 3,
           "Players": 6,
           "Winners": 1,
-          "LevelID": "level15_laser",
+          "LevelID": "level19_block",
           "RandomLevels": [],
           "RoundRewards": [
             {
