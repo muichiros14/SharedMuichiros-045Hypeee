@@ -223321,12 +223321,17 @@
       {
         "ThemeRef": "Star_THEME",
         "StartDate": "2024-10-01T15:00:00Z",
-        "EndDate": "2067-10-15T15:00:00Z"
+        "EndDate": "2023-10-15T15:00:00Z"
       },
       {
         "ThemeRef": "TETRIS_THEME",
         "StartDate": "2025-01-01T00:00:00Z",
-        "EndDate": "2028-12-31T23:59:59Z"
+        "EndDate": "2023-12-31T23:59:59Z"
+      },
+      {
+        "ThemeRef": "BEAST2_THEME",
+        "StartDate": "2025-01-01T00:00:00Z",
+        "EndDate": "2030-12-31T23:59:59Z"
       }
     ],
     "ThemesPlayStation": [],
