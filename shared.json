@@ -223243,8 +223243,8 @@
   },
   "Themes": {
     "ThemeDict": {
-      "HALLOWEEN_THEME": {
-        "BackgroundPrefabName": "Sprites/Themes/BG_Theme_Halloween"
+      "SMURFS_THEME": {
+        "BackgroundPrefabName": "Sprites/Themes/BG_Theme_Smurfs"
       },
       "BEAST2_THEME": {
         "BackgroundPrefabName": "Sprites/Themes/BG_Theme_Beast_2"
@@ -223332,7 +223332,7 @@
         "EndDate": "2023-12-31T23:59:59Z"
       },
       {
-        "ThemeRef": "HALLOWEEN_THEME",
+        "ThemeRef": "SMURFS_THEME",
         "StartDate": "2025-01-01T00:00:00Z",
         "EndDate": "2030-12-31T23:59:59Z"
       }
